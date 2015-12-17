@@ -24,7 +24,10 @@
     "tests"
   ],
   "dependencies": {
-    "file-reader": "TaaabsElements/file-reader"
+    "file-reader": "TaaabsElements/file-reader",
+    "taaabs-taaabs": "TaaabsElements/taaabs-taaabs",
+    "taaabs-base-list": "TaaabsElements/taaabs-base-list",
+    "taaabs-base-create": "TaaabsElements/taaabs-base-create"
   },
   "main": "taaabs-elements.html"
 }
