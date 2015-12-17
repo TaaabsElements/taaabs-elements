@@ -24,9 +24,9 @@
     "tests"
   ],
   "dependencies": {
-    "taaabs-taaabs": "TaaabsElements/taaabs-taaabs",
-    "taaabs-base-list": "TaaabsElements/taaabs-base-list",
-    "taaabs-base-create": "TaaabsElements/taaabs-base-create",
+    //"taaabs-taaabs": "TaaabsElements/taaabs-taaabs",
+    //"taaabs-base-list": "TaaabsElements/taaabs-base-list",
+    //"taaabs-base-create": "TaaabsElements/taaabs-base-create",
     "file-reader": "TaaabsElements/file-reader"
   },
   "main": "taaabs-elements.html"
