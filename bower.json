@@ -1,0 +1,33 @@
+{
+  "name": "taaabs-elements",
+  "version": "1.0.0",
+  "homepage": "https://github.com/TaaabsElements/taaabs-elements",
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "description": "Main repository for Taaabs elements.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-elements.git"
+  },
+  "license": "https://github.com/TaaabsElements/taaabs-elements/LICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "taaabs-taaabs": "TaaabsElements/taaabs-taaabs",
+    "taaabs-base-list": "TaaabsElements/taaabs-base-list",
+    "taaabs-base-create": "TaaabsElements/taaabs-base-create",
+    "file-reader": "TaaabsElements/file-reader"
+  },
+  "main": "taaabs-elements.html"
+}
