@@ -27,7 +27,10 @@
     "file-reader": "TaaabsElements/file-reader",
     "taaabs-taaabs": "TaaabsElements/taaabs-taaabs",
     "taaabs-base-list": "TaaabsElements/taaabs-base-list",
-    "taaabs-base-create": "TaaabsElements/taaabs-base-create"
+    "taaabs-base-create": "TaaabsElements/taaabs-base-create",
+    "taaabs-base": "TaaabsElements/taaabs-base",
+    "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
+    "taaabs-csv-verify-file": "TaaabsElements/taaabs-csv-verify-file"
   },
   "main": "taaabs-elements.html"
 }
