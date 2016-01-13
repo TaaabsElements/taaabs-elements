@@ -25,12 +25,40 @@
   ],
   "dependencies": {
     "file-reader": "TaaabsElements/file-reader",
-    "taaabs-taaabs": "TaaabsElements/taaabs-taaabs",
-    "taaabs-base-list": "TaaabsElements/taaabs-base-list",
-    "taaabs-base-create": "TaaabsElements/taaabs-base-create",
     "taaabs-base": "TaaabsElements/taaabs-base",
+    "taaabs-base-create": "TaaabsElements/taaabs-base-create",
+    "taaabs-base-list": "TaaabsElements/taaabs-base-list",
+    "taaabs-csv-verify-file": "TaaabsElements/taaabs-csv-verify-file",
+    "taaabs-import-external-module-behavior": "TaaabsElements/taaabs-import-external-module-behavior",
     "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
-    "taaabs-csv-verify-file": "TaaabsElements/taaabs-csv-verify-file"
+    "taaabs-lazy-loading-behavior": "TaaabsElements/taaabs-lazy-loading-behavior",
+    "taaabs-model": "TaaabsElements/taaabs-model",
+    "taaabs-model-display": "TaaabsElements/taaabs-model-display",
+    "taaabs-obsel-inspector": "TaaabsElements/taaabs-obsel-inspector",
+    "taaabs-obsel-inspector-type": "TaaabsElements/taaabs-obsel-inspector-type",
+    "taaabs-remote-resources": "TaaabsElements/taaabs-remote-resources",
+    "taaabs-samotraceme": "TaaabsElements/taaabs-samotraceme",
+    "taaabs-sparelnc": "TaaabsElements/taaabs-sparelnc",
+    "taaabs-stylesheet": "TaaabsElements/taaabs-stylesheet",
+    "taaabs-stylesheet-behavior": "TaaabsElements/taaabs-stylesheet-behavior",
+    "taaabs-taaabs": "TaaabsElements/taaabs-taaabs",
+    "taaabs-timeform": "TaaabsElements/taaabs-timeform",
+    "taaabs-trace": "TaaabsElements/taaabs-trace",
+    "taaabs-trace-display-icons": "TaaabsElements/taaabs-trace-display-icons",
+    "taaabs-trace-display-icons-fix": "TaaabsElements/taaabs-trace-display-icons-fix",
+    "taaabs-trace-display-icons-zoom": "TaaabsElements/taaabs-trace-display-icons-zoom",
+    "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
+    "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
+    "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
+    
+    
+    
+    
+    
+    
+    "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
+    
+    
   },
   "main": "taaabs-elements.html"
 }
