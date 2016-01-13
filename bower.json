@@ -47,18 +47,14 @@
     "taaabs-trace-display-icons": "TaaabsElements/taaabs-trace-display-icons",
     "taaabs-trace-display-icons-fix": "TaaabsElements/taaabs-trace-display-icons-fix",
     "taaabs-trace-display-icons-zoom": "TaaabsElements/taaabs-trace-display-icons-zoom",
-    "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
-    "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
-    "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
-    
-    
-    
-    
-    
-    
-    "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
-    
-    
+    "taaabs-trace-fix": "TaaabsElements/taaabs-trace-fix",
+    "taaabs-trace-import": "TaaabsElements/taaabs-trace-import",
+    "taaabs-trace-local": "TaaabsElements/taaabs-trace-local",
+    "taaabs-trace-to-model": "TaaabsElements/taaabs-trace-to-model",
+    "taaabs-trace-to-model-behavior": "TaaabsElements/taaabs-trace-to-model-behavior",
+    "taaabs-trace-visualization": "TaaabsElements/taaabs-trace-visualization",
+    "taaabs-window-scale": "TaaabsElements/taaabs-window-scale",
+    "taaabs-window-scale-fix": "TaaabsElements/taaabs-window-scale-fix"
   },
   "main": "taaabs-elements.html"
 }
