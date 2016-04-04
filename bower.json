@@ -28,6 +28,7 @@
     "taaabs-base": "TaaabsElements/taaabs-base",
     "taaabs-base-create": "TaaabsElements/taaabs-base-create",
     "taaabs-base-list": "TaaabsElements/taaabs-base-list",
+    "taaabs-base-overview": "TaaabsElements/taaabs-base-overview",
     "taaabs-csv-verify-file": "TaaabsElements/taaabs-csv-verify-file",
     "taaabs-import-external-module-behavior": "TaaabsElements/taaabs-import-external-module-behavior",
     "taaabs-ktbs": "TaaabsElements/taaabs-ktbs",
