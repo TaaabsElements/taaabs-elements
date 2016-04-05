@@ -39,7 +39,7 @@
     "taaabs-sparelnc": "TaaabsElements/taaabs-sparelnc",
     "taaabs-stylesheet": "TaaabsElements/taaabs-stylesheet",
     "taaabs-stylesheet-behavior": "TaaabsElements/taaabs-stylesheet-behavior",
-    "taaabs-taaabs": "TaaabsElements/taaabs-taaabs",
+    "taaabs-taaabs": "TaaabsElements/taaabs-taaabs#old_samotraces",
     "taaabs-timeform": "TaaabsElements/taaabs-timeform",
     "taaabs-trace": "TaaabsElements/taaabs-trace",
     "taaabs-trace-display-icons": "TaaabsElements/taaabs-trace-display-icons",
