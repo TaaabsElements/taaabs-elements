@@ -24,11 +24,35 @@
     "tests"
   ],
   "dependencies": {
-    "file-reader": "TaaabsElements/file-reader",
-    "taaabs-base-overview": "TaaabsElements/taaabs-base-overview",
     "taaabs-base-details": "TaaabsElements/taaabs-base-details",
+    "taaabs-base-create": "TaaabsElements/taaabs-base-create",
+    "taaabs-base-graph": "TaaabsElements/taaabs-base-graph",
+    "taaabs-base-overview": "TaaabsElements/taaabs-base-overview",
+    "taaabs-compute-trace-split": "TaaabsElements/taaabs-compute-trace-split",
+    "taaabs-csv-collector": "TaaabsElements/taaabs-csv-collector",
+    "taaabs-csv-schema": "TaaabsElements/taaabs-csv-schema",
+    "taaabs-csv-to-ktbs": "TaaabsElements/taaabs-csv-to-ktbs",
+    "taaabs-csv-to-ktbsmodel": "TaaabsElements/taaabs-csv-to-ktbsmodel",
+    "file-reader": "TaaabsElements/file-reader",
     "taaabs-ktbs-overview": "TaaabsElements/taaabs-ktbs-overview",
-    "taaabs-taaabs": "TaaabsElements/taaabs-taaabs"
+    "taaabs-method-details": "TaaabsElements/taaabs-method-details",
+    "taaabs-model-simpleview": "TaaabsElements/taaabs-model-simpleview",
+    "taaabs-obsel-simpleview": "TaaabsElements/taaabs-obsel-simpleview",
+    "taaabs-research": "TaaabsElements/taaabs-research",
+    "taaabs-resource-loader": "TaaabsElements/taaabs-resource-loader",
+    "taaabs-taaabs": "TaaabsElements/taaabs-taaabs",
+    "taaabs-themes": "TaaabsElements/taaabs-themes",
+    "taaabs-time-utilities": "TaaabsElements/taaabs-time-utilities",
+    "taaabs-trace-details": "TaaabsElements/taaabs-trace-details",
+    "taaabs-trace-details-container": "TaaabsElements/taaabs-trace-details-container",
+    "taaabs-trace-histogram": "TaaabsElements/taaabs-trace-histogram",
+    "taaabs-trace-loader": "TaaabsElements/taaabs-trace-loader",
+    "taaabs-trace-split": "TaaabsElements/taaabs-trace-split",
+    "taaabs-trace-timeline": "TaaabsElements/taaabs-trace-timeline",
+    "taaabs-trace-timeline-container": "TaaabsElements/taaabs-trace-timeline-container",
+    "taaabs-trace-timeline-docker": "TaaabsElements/taaabs-trace-timeline-docker",
+    "taaabs-trace-timeline-scroller": "TaaabsElements/taaabs-trace-timeline-scroller",
+    "taaabs-trace-timeline-stylesheet": "TaaabsElements/taaabs-trace-timeline-stylesheet"
   },
   "main": "taaabs-elements.html"
 }
